@@ -1,0 +1,21 @@
+table {
+  border-spacing: 10px;
+}
+
+td {
+  padding-left: 0;
+}
+
+img {
+  border-radius: 50%;
+}
+
+html {
+  font-family: arial, sans-serif;
+}
+
+* {
+  margin-left: 0.25vw;
+  border: solid red 0;
+  box-sizing: border-box;
+}
